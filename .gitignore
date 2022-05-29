@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+#
+ckeditor5
+
+#
+modal.jsx
+selectSchedule.jsx
+availableschool.html
